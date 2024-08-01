@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/f7f8bef9dd1544b691dd5adbe93c4e3f/artifacts
+end_time: 1722513466650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7f8bef9dd1544b691dd5adbe93c4e3f
+run_name: peaceful-steed-241
+run_uuid: f7f8bef9dd1544b691dd5adbe93c4e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513458272
+status: 3
+tags: []
+user_id: Chayan Paul

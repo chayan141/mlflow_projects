@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/9d9cd331189541a1bb2b53a2f3406399/artifacts
+end_time: 1722513576902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d9cd331189541a1bb2b53a2f3406399
+run_name: defiant-kit-269
+run_uuid: 9d9cd331189541a1bb2b53a2f3406399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513569053
+status: 3
+tags: []
+user_id: Chayan Paul

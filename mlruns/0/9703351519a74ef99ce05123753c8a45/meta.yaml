@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/9703351519a74ef99ce05123753c8a45/artifacts
+end_time: 1722513562311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9703351519a74ef99ce05123753c8a45
+run_name: treasured-whale-737
+run_uuid: 9703351519a74ef99ce05123753c8a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513552877
+status: 3
+tags: []
+user_id: Chayan Paul

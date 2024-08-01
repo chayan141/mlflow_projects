@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/fb4ac0861567443a8c682b3379973d08/artifacts
+end_time: 1722513494303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4ac0861567443a8c682b3379973d08
+run_name: debonair-stork-815
+run_uuid: fb4ac0861567443a8c682b3379973d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513486420
+status: 3
+tags: []
+user_id: Chayan Paul

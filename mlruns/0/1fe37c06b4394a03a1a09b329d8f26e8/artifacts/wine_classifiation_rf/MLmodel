@@ -1,0 +1,20 @@
+artifact_path: wine_classifiation_rf
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.0
+model_size_bytes: 12466376
+model_uuid: 72305d60908a462787e76767dccb9411
+run_id: 1fe37c06b4394a03a1a09b329d8f26e8
+utc_time_created: '2024-08-01 12:00:11.555735'

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/9dc77da423a3476bbd1f54181f585bf1/artifacts
+end_time: 1722513450823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dc77da423a3476bbd1f54181f585bf1
+run_name: bedecked-donkey-603
+run_uuid: 9dc77da423a3476bbd1f54181f585bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513450048
+status: 4
+tags: []
+user_id: Chayan Paul

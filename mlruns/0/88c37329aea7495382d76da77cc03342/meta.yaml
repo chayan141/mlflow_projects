@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/88c37329aea7495382d76da77cc03342/artifacts
+end_time: 1722509518288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88c37329aea7495382d76da77cc03342
+run_name: adorable-fox-67
+run_uuid: 88c37329aea7495382d76da77cc03342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722509500167
+status: 3
+tags: []
+user_id: Chayan Paul

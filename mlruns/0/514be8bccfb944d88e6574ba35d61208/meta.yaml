@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/514be8bccfb944d88e6574ba35d61208/artifacts
+end_time: 1722509645675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 514be8bccfb944d88e6574ba35d61208
+run_name: marvelous-dog-840
+run_uuid: 514be8bccfb944d88e6574ba35d61208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722509637211
+status: 3
+tags: []
+user_id: Chayan Paul

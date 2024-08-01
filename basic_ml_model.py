@@ -81,6 +81,9 @@ def main(n_estimators,max_depth):
         mlflow.log_metric('accuracy',accuracy)
         mlflow.log_metric('roc_auc_score',roc)
 
+        #mlflow model logging
+        mlflow.sklearn.log_model(rf, 'wine_classifiation_rf')
+
 
         print(f"Accuracy: {accuracy}, roc_auc_score: {roc}")
 

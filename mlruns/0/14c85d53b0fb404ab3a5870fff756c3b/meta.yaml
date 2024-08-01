@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/14c85d53b0fb404ab3a5870fff756c3b/artifacts
+end_time: 1722513659186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14c85d53b0fb404ab3a5870fff756c3b
+run_name: angry-roo-298
+run_uuid: 14c85d53b0fb404ab3a5870fff756c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513651838
+status: 3
+tags: []
+user_id: Chayan Paul

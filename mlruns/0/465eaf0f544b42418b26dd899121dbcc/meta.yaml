@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/465eaf0f544b42418b26dd899121dbcc/artifacts
+end_time: 1722513480491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 465eaf0f544b42418b26dd899121dbcc
+run_name: defiant-trout-530
+run_uuid: 465eaf0f544b42418b26dd899121dbcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513473164
+status: 3
+tags: []
+user_id: Chayan Paul

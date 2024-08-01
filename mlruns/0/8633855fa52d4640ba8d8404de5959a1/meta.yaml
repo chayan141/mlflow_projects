@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/8633855fa52d4640ba8d8404de5959a1/artifacts
+end_time: 1722513245537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8633855fa52d4640ba8d8404de5959a1
+run_name: blushing-fly-17
+run_uuid: 8633855fa52d4640ba8d8404de5959a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513234292
+status: 3
+tags: []
+user_id: Chayan Paul

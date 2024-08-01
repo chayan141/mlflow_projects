@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/a5ca14ebc0bb4eee8fcb423b2b739d56/artifacts
+end_time: 1722509142191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5ca14ebc0bb4eee8fcb423b2b739d56
+run_name: marvelous-worm-512
+run_uuid: a5ca14ebc0bb4eee8fcb423b2b739d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722509140773
+status: 3
+tags: []
+user_id: Chayan Paul

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/ML%20%20Ops/ineuron_MLOPS/Project_2/mlruns/0/0ddad41219f549ceb3f8ead8d880588b/artifacts
+end_time: 1722513645838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ddad41219f549ceb3f8ead8d880588b
+run_name: traveling-fish-782
+run_uuid: 0ddad41219f549ceb3f8ead8d880588b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722513638135
+status: 3
+tags: []
+user_id: Chayan Paul
